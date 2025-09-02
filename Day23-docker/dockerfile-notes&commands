@@ -142,7 +142,7 @@ Web servers
    28  docker build -t login:v1 .
    29  docker images
    30  ls
-   31  docker tag login:v1 muralisocial123/login:v1
+   31  docker tag login:vi muralisocial123/login:v1
    32  docker images
    33  docker login
    34  docker login -u
